@@ -27,4 +27,4 @@ A user-friendly website for online bank transactions.
 
 - HTML
 - CSS
-- Vanilla JavaScript
+- JavaScript
